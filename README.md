@@ -1,4 +1,5 @@
 ### `npx create-react-app feedback-app --use-npm`
+`npm i react-icons`
 
 `cd feedback-app`
 

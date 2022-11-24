@@ -1,6 +1,7 @@
 ### `npx create-react-app feedback-app --use-npm`
 `npm i react-icons`
 `npm i uuid`
+`npm i framer-motion`
 
 `cd feedback-app`
 

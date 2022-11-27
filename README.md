@@ -2,6 +2,7 @@
 `npm i react-icons`
 `npm i uuid`
 `npm i framer-motion`
+`npm i react-router-dom`
 
 `cd feedback-app`
 

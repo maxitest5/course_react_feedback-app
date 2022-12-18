@@ -3,7 +3,12 @@
 `npm i uuid`
 `npm i framer-motion`
 `npm i react-router-dom`
+Create build folder for production
 `npm i -g serve`
+To run json database
+`npm i json-server`
+To run both front and back at the same time
+`npm i concurrently`
 
 `cd feedback-app`
 
